@@ -1,5 +1,5 @@
-// const API_URL = "http://23319330-book-doctor-lb-1389235972.eu-central-1.elb.amazonaws.com";
-const API_URL = "http://localhost:8080";
+const API_URL = "http://24108863-medico-lb-1527293967.eu-central-1.elb.amazonaws.com";
+// const API_URL = "http://localhost:8080";
 const API_VERSION = "/api/v1";
 const API_BASE_URL = `${API_URL}${API_VERSION}`;
 const API_MASTER_DATA_URL = `${API_BASE_URL}/master`;
