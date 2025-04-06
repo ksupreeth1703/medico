@@ -99,7 +99,7 @@ const Login = () => {
 
                 <div className="relative">
                     <div className="flex items-center text-white">
-                        <img src={Logo} alt="Logo" className="h-12 w-12" />
+                        <img src={"/doctorlogo.webp"} alt="Logo" className="h-12 w-12" />
                         <span className="ml-3 text-2xl font-bold">{APP_NAME}</span>
                     </div>
                 </div>

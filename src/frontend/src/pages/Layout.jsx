@@ -27,7 +27,7 @@ const Layout = () => {
             {/* Logo and Navigation */}
             <div className="flex flex-col sm:flex-row items-center w-full sm:w-auto space-y-4 sm:space-y-0">
               <Link to="/" className="flex items-center space-x-3 mb-4 sm:mb-0">
-                <img src={webicon} alt="Website Logo" className="h-12 w-12 rounded-lg" />
+                <img src={"/doctorlogo.webp"} alt="Website Logo" className="h-12 w-12 rounded-lg" />
                 <span className="text-2xl font-bold">{APP_NAME}</span>
               </Link>
 
@@ -92,7 +92,7 @@ const Layout = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             <div>
               <div className="flex items-center space-x-3 mb-6">
-                <img src={webicon} alt="Website Logo" className="h-12 w-12 rounded-lg" />
+                <img src={"/doctorlogo.webp"} alt="Website Logo" className="h-12 w-12 rounded-lg" />
                 <span className="text-2xl font-bold">{APP_NAME}</span>
               </div>
               <p className="text-indigo-200">

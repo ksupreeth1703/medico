@@ -98,7 +98,7 @@ const Register = () => {
                 <div className="relative">
                     <div className="flex items-center text-white">
                         <img
-                            src={Logo}
+                            src={"/doctorlogo.webp"}
                             alt="Logo"
                             className="h-12 w-12"
                         />
