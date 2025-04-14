@@ -36,7 +36,7 @@ const Home = () => {
       <div className="relative bg-gradient-to-r from-blue-900 via-indigo-800 to-blue-900 text-white py-24 overflow-hidden">
         <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQ0MCIgaGVpZ2h0PSIxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48Y2lyY2xlIGZpbGw9IiMyMDIwMjAiIG9wYWNpdHk9Ii4xIiBjeD0iNzIwIiBjeT0iNjAiIHI9IjYwIi8+PGNpcmNsZSBmaWxsPSIjMjAyMDIwIiBvcGFjaXR5PSIuMSIgY3g9IjcyMCIgY3k9IjEyMCIgcj0iNjAiLz48L2c+PC9zdmc+')] opacity-10"></div>
         <div className="container mx-auto px-6 relative z-10">
-          <h1 className="text-6xl font-bold mb-6 leading-tight">Your Medicos, <br/>Our Priority</h1>
+          <h1 className="text-6xl font-bold mb-6 leading-tight">Your Medico, <br/>Our Priority</h1>
           <p className="text-xl mb-12 text-blue-100 max-w-2xl">Book appointments with top specialists in just a few clicks. Experience healthcare that puts you first.</p>
 
           {/* Search Section */}
